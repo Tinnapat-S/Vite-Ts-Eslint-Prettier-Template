@@ -25,10 +25,8 @@ This project is a template for quickly starting a React project with TypeScript,
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/Tinnapat-S/your-project.git
    ```
-
-````
 
 2. Navigate to the project directory:
 
@@ -76,14 +74,6 @@ To enable auto-formatting on save in VSCode, make sure the following settings ar
 
 ## Contributing
 
+```
 Feel free to contribute to this project by opening issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ```
-
-You can replace placeholders like `your-username` and `your-project` with your actual GitHub username and project name. Feel free to customize the README according to your project's specific features and requirements.
-```
-````
